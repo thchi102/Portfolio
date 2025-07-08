@@ -5,7 +5,7 @@ export const Projects = () => {
                 <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent text-center">
                     Featured Projects
                 </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 gap-6">
                     <div className="rounded-xl p-6 border-white/10 border hover:-translate-y-1 transition-all space-y-2 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition">
                         <h3 className="font-bold text-xl mb-2">Cloud Platform</h3>
                         <p className="text-gray-300 mb-4">
